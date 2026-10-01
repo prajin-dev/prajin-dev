@@ -5,16 +5,16 @@
     "about": "About",
     "process": "Process",
     "contact": "Contact",
-    "hire": "Hire me",
+    "hire": "Hire us",
     "blog": "Blog"
   },
   "hero": {
     "badge": "Available for new projects · Theni, India & Worldwide",
-    "h1_1": "I build",
+    "h1_1": "We build",
     "h1_grad": "websites & apps",
     "h1_2": "that grow",
     "h1_3": "businesses.",
-    "lead": "Hi, I'm <strong>Prajin Dezaa</strong> — a full-stack developer who designs, builds and launches complete digital products, then drives real organic growth with technical SEO and Google/Meta campaigns. One engineer, end to end.",
+    "lead": "Hi, we are <strong>Prajin and Team</strong> — a full-stack design and engineering studio that builds and launches high-performance digital products, then drives real organic growth with technical SEO and Google/Meta campaigns. Complete solutions, end to end.",
     "cta_primary": "Start a project →",
     "cta_secondary": "See live work",
     "stats": [
@@ -25,7 +25,7 @@
     ]
   },
   "services": {
-    "eyebrow": "What I build",
+    "eyebrow": "What we build",
     "title": "Every kind of <span class=\"g\">digital product.</span>",
     "lead": "From a first corporate website to custom enterprise cloud software that runs an entire business."
   },
@@ -34,9 +34,9 @@
     "title": "Real products, <span class=\"g\">live today.</span>"
   },
   "about": {
-    "eyebrow": "About me",
-    "title": "17, from Theni. <span class=\"g\">Shipping like a studio.</span>",
-    "lead": "I started building for local businesses and quickly learned that a successful digital product is much more than pretty pixels — it must load instantly, remain effortlessly intuitive on mobile, and convert visitors into loyal clients. I take total ownership of design, clean code, deployment, and organic search optimization."
+    "eyebrow": "About us",
+    "title": "Prajin and Team. <span class=\"g\">Shipping like a powerhouse studio.</span>",
+    "lead": "We build for growing businesses and ambitious brands worldwide. We believe a successful digital product is much more than pretty pixels — it must load instantly, remain effortlessly intuitive on mobile, and convert visitors into loyal clients. We take total ownership of design, clean code, deployment, and organic search optimization."
   },
   "process": {
     "eyebrow": "Process",
@@ -48,7 +48,7 @@
   },
   "contact": {
     "title": "Let's build something <span class=\"g\">great.</span>",
-    "lead": "Tell me about your business goals and ideas. I reply directly on WhatsApp, usually within a few hours.",
+    "lead": "Tell us about your business goals and ideas. We reply directly on WhatsApp, usually within a few hours.",
     "btn": "Chat on WhatsApp ↗"
   }
 }
