@@ -10,7 +10,8 @@
     "set-config": "node tools/set-config.mjs",
     "audit": "node tools/audit.mjs",
     "deploy:check": "node tools/deploy-check.mjs",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "deploy:firebase": "npm run build:prod && firebase deploy --only hosting"
   },
   "keywords": [
     "portfolio",
