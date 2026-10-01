@@ -1,0 +1,32 @@
+# Prajin Dezaa — Full-Stack Developer Portfolio
+
+## Profile
+Name: Prajin Dezaa
+Role: Full-Stack Developer & Software Engineer
+Location: Theni, Tamil Nadu, India (Serving clients worldwide)
+Website: {{DOMAIN}}/
+WhatsApp: +91 93609 70236 (wa.me/{{WHATSAPP}})
+Email: {{EMAIL}}
+LinkedIn: https://www.linkedin.com/in/prajin-dezaa-a3469543b
+Instagram: https://www.instagram.com/cricketerprajin06
+
+## Value Proposition
+"I build websites & apps that grow businesses." 
+Specializing in high-performance corporate websites, custom B2B ordering apps, mobile-first e-commerce stores, Android PWAs, and technical SEO with sub-second page loads.
+
+## Key Services
+1. Custom Business Websites ({{DOMAIN}}/services/website-development/)
+2. E-Commerce Stores & Online Ordering ({{DOMAIN}}/services/ecommerce-development/)
+3. B2B Order Management Platforms ({{DOMAIN}}/services/b2b-order-management-apps/)
+4. Android Apps & Progressive Web Apps ({{DOMAIN}}/services/android-apps-and-pwa/)
+5. Custom Enterprise Software & ERP ({{DOMAIN}}/services/custom-software-development/)
+6. High-Converting Landing Pages & UI/UX ({{DOMAIN}}/services/ui-ux-and-landing-pages/)
+7. Technical SEO & Search Marketing ({{DOMAIN}}/services/seo-and-digital-ads/)
+
+## Verified Production Case Studies
+- Kalasam Jaikrishna Industries (https://kalasamjaikrishna.co.in): Chemical and camphor manufacturing corporate portal with export inquiry workflows.
+- JKI Orders (https://jkiorders.in): B2B ordering platform, distributor portal, Android APK, and desktop PWA.
+- Aparna Stores (https://aparnastores.shop): Mobile-first grocery supermarket e-commerce store with bulk-pack pricing and WhatsApp order integration.
+
+## Key Target Markets
+United States ({{DOMAIN}}/markets/websites-for-businesses-in-usa/), United Kingdom ({{DOMAIN}}/markets/websites-for-businesses-in-uk/), United Arab Emirates & Dubai ({{DOMAIN}}/markets/websites-for-businesses-in-uae/), Australia ({{DOMAIN}}/markets/websites-for-businesses-in-australia/), Canada ({{DOMAIN}}/markets/websites-for-businesses-in-canada/), Singapore ({{DOMAIN}}/markets/websites-for-businesses-in-singapore/), Germany ({{DOMAIN}}/markets/websites-for-businesses-in-germany/), and India.

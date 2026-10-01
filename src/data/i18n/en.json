@@ -1,0 +1,54 @@
+{
+  "nav": {
+    "work": "Work",
+    "services": "Services",
+    "about": "About",
+    "process": "Process",
+    "contact": "Contact",
+    "hire": "Hire me",
+    "blog": "Blog"
+  },
+  "hero": {
+    "badge": "Available for new projects · Theni, India & Worldwide",
+    "h1_1": "I build",
+    "h1_grad": "websites & apps",
+    "h1_2": "that grow",
+    "h1_3": "businesses.",
+    "lead": "Hi, I'm <strong>Prajin Dezaa</strong> — a full-stack developer who designs, builds and launches complete digital products, then drives real organic growth with technical SEO and Google/Meta campaigns. One engineer, end to end.",
+    "cta_primary": "Start a project →",
+    "cta_secondary": "See live work",
+    "stats": [
+      { "n": "3", "s": "", "label": "Live client platforms" },
+      { "n": "3", "s": "", "label": "Supported platforms (Web, Android, PWA)" },
+      { "n": "17", "s": "+", "label": "Countries reached via client exports" },
+      { "n": "100", "s": "%", "label": "End-to-end technical delivery" }
+    ]
+  },
+  "services": {
+    "eyebrow": "What I build",
+    "title": "Every kind of <span class=\"g\">digital product.</span>",
+    "lead": "From a first corporate website to custom enterprise cloud software that runs an entire business."
+  },
+  "work": {
+    "eyebrow": "Selected work",
+    "title": "Real products, <span class=\"g\">live today.</span>"
+  },
+  "about": {
+    "eyebrow": "About me",
+    "title": "17, from Theni. <span class=\"g\">Shipping like a studio.</span>",
+    "lead": "I started building for local businesses and quickly learned that a successful digital product is much more than pretty pixels — it must load instantly, remain effortlessly intuitive on mobile, and convert visitors into loyal clients. I take total ownership of design, clean code, deployment, and organic search optimization."
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "From idea to <span class=\"g\">growth.</span>"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Clear answers."
+  },
+  "contact": {
+    "title": "Let's build something <span class=\"g\">great.</span>",
+    "lead": "Tell me about your business goals and ideas. I reply directly on WhatsApp, usually within a few hours.",
+    "btn": "Chat on WhatsApp ↗"
+  }
+}

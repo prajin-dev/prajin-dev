@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "kalasam-jaikrishna-industries",
+    "name": "Kalasam Jaikrishna Industries",
+    "client": "Kalasam Jaikrishna Industries",
+    "tag": "Corporate Website & Global Export Portal",
+    "url": "https://kalasamjaikrishna.co.in",
+    "displayUrl": "kalasamjaikrishna.co.in",
+    "imgs": ["k1.jpg", "k2.jpg"],
+    "heroAlt": "Kalasam Jaikrishna Industries chemical and camphor manufacturing export website",
+    "h1": "Case Study: Scaling an International Export Presence for Kalasam Jaikrishna Industries",
+    "problem": "A camphor and chemical manufacturer with legacy manufacturing roots dating back to 1995—and exporting goods to over 17 countries—had no authoritative digital presence to verify legitimacy and attract direct international institutional buyers.",
+    "solution": "Engineered a high-performance corporate platform featuring an interactive product catalog with comprehensive laboratory specifications, dedicated inquiry pathways for OEM and export distributors, direct WhatsApp integration, and international technical SEO.",
+    "features": [
+      "Dynamic product specification catalog with chemical purity grades",
+      "Dedicated multi-tier export, OEM, and bulk distributor inquiry flows",
+      "Sub-second load times engineered with lightweight semantic HTML and CSS",
+      "Automated WhatsApp lead dispatch allowing direct manufacturer communication",
+      "Structured data implementation allowing international B2B buyers to verify company credentials"
+    ],
+    "tech": ["Semantic HTML5", "Modern CSS", "JavaScript", "Technical SEO", "WhatsApp API"],
+    "testimonial": {
+      "quote": "For the past few days our company was facing low orders and few business connections. Once you launched our website, everything changed — we are now getting more export clients, distributors and enquiries.",
+      "author": "Executive Leadership",
+      "company": "Kalasam Jaikrishna Industries"
+    }
+  },
+  {
+    "slug": "jki-orders-b2b-platform",
+    "name": "JKI Orders B2B Platform",
+    "client": "JKI Orders",
+    "tag": "B2B Ordering Platform · Android APK · PWA",
+    "url": "https://jkiorders.in",
+    "displayUrl": "jkiorders.in",
+    "imgs": ["j1.jpg", "j2.jpg"],
+    "heroAlt": "JKI Orders B2B distributor ordering platform Android app and progressive web application",
+    "h1": "Case Study: Replacing Phone Call Orders with a Custom B2B Distributor Portal",
+    "problem": "Wholesale distributors placed orders through manual phone calls and disorganized WhatsApp messages. This led to frequent dispatch tracking errors, delays in sending GST invoices, and difficult reconciliation of customer payment ledgers.",
+    "solution": "Built a unified B2B digital ordering ecosystem: a friction-free customer portal, warehouse staff administrative back-office, a lightweight Android APK package, and an installable desktop Progressive Web App (PWA).",
+    "features": [
+      "Simplified customer authentication using mobile number and secure 4-digit PIN",
+      "1-tap repeat order functionality based on past buying history",
+      "Real-time warehouse dispatch status tracking and transport LR number logging",
+      "Automated GST invoice generation and printable statement ledgers",
+      "Installable PWA and standalone Android APK for field operators"
+    ],
+    "tech": ["Android APK", "Progressive Web App", "REST APIs", "Relational Database", "Cloud Back-Office"],
+    "testimonial": {
+      "quote": "Thank you very much for this great work at such a fair price. Taking orders from our customers is now very easy for our company.",
+      "author": "Operations & Logistics Manager",
+      "company": "JKI Orders"
+    }
+  },
+  {
+    "slug": "aparna-stores-ecommerce",
+    "name": "Aparna Stores E-Commerce",
+    "client": "Aparna Stores",
+    "tag": "Mobile-First Grocery & Supermarket Store",
+    "url": "https://aparnastores.shop",
+    "displayUrl": "aparnastores.shop",
+    "imgs": ["a1.jpg", "a2.jpg"],
+    "heroAlt": "Aparna Stores online grocery and supermarket e-commerce platform",
+    "h1": "Case Study: Digitizing a Legacy Supermarket with Bulk Pricing & WhatsApp Orders",
+    "problem": "A trusted Theni supermarket operating continuously since 1965 required an online shopping experience so local families and bulk institutional buyers could order groceries, household essentials, and bulk staples without waiting in checkout lines.",
+    "solution": "Engineered a rapid mobile-first e-commerce web application featuring intuitive category browsing, live search, promotional discounts, tiered bulk-pack pricing, dynamic cart and checkout, and automated WhatsApp order dispatch.",
+    "features": [
+      "Lightning-fast product search with instant category filters",
+      "Tiered bulk-pack discount pricing engine for volume buyers",
+      "Frictionless mobile cart, checkout, and order history tracking",
+      "Direct integration with local home delivery logistics via WhatsApp alerts",
+      "Lightweight architecture achieving 95+ mobile performance score"
+    ],
+    "tech": ["E-Commerce Architecture", "Mobile-First Design", "Cart & Checkout Engine", "WhatsApp Integration", "Local SEO"],
+    "testimonial": {
+      "quote": "I didn't expect such a great result for such a small budget. I am very satisfied with the features and the price, and I will recommend your work to everyone I know.",
+      "author": "Store Management",
+      "company": "Aparna Stores (Est. 1965)"
+    }
+  }
+]

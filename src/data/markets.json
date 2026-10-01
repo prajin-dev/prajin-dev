@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "websites-for-businesses-in-usa",
+    "country": "United States",
+    "demonym": "American",
+    "currency": "USD ($)",
+    "title": "Custom Website & App Development for Businesses in the USA",
+    "h1": "Custom Web & App Development for US Small Businesses & Enterprises",
+    "metaDesc": "Hire Prajin Dezaa for fast, high-converting websites and custom B2B apps tailored for US businesses. Sub-second load times, timezone alignment, and fixed quotes.",
+    "intro": "American small businesses and growing enterprises often face an agonizing choice between overpriced US domestic agencies billing $150-$250/hour and unreliable, low-quality offshore mills. I provide a direct, senior-engineer partnership: high-performance websites, e-commerce stores, and custom software delivered with exceptional craft, transparent fixed quotes, and clear communication.",
+    "localContext": "I understand US business standards: ADA accessibility compliance (WCAG AA), Stripe/PayPal payment integrations, sales tax calculations, state regulatory notices, and Core Web Vitals optimization to win competitive Google US search rankings.",
+    "caseReference": "kalasam-jaikrishna-industries"
+  },
+  {
+    "slug": "websites-for-businesses-in-uk",
+    "country": "United Kingdom",
+    "demonym": "British",
+    "currency": "GBP (£)",
+    "title": "Custom Website & Web Application Development for UK Businesses",
+    "h1": "Bespoke Web Development & E-Commerce for UK Small Businesses",
+    "metaDesc": "High-performance bespoke websites, e-commerce stores, and B2B portals for UK businesses. GDPR compliant, sub-second speed, and clear fixed-fee delivery.",
+    "intro": "UK businesses operating in London, Manchester, Birmingham, and across England, Scotland, and Wales require digital platforms that combine understated design polish with ironclad reliability. I build bespoke websites and business applications that outperform sluggish agency builds at a fraction of the overhead.",
+    "localContext": "Full adherence to UK GDPR and Data Protection Act regulations, cookie-less performance architecture, VAT compliance on invoices, and optimized UK edge delivery via London Cloudflare datacenters.",
+    "caseReference": "jki-orders-b2b-platform"
+  },
+  {
+    "slug": "websites-for-businesses-in-uae",
+    "country": "United Arab Emirates",
+    "demonym": "UAE & Gulf",
+    "currency": "AED (د.إ)",
+    "title": "Custom Corporate Websites & B2B Portals for Businesses in the UAE & Dubai",
+    "h1": "Corporate Websites & B2B Software for UAE & Gulf Enterprises",
+    "metaDesc": "Engineering world-class corporate websites, export catalogs, and B2B distributor apps for businesses in Dubai, Abu Dhabi, and across the UAE & GCC.",
+    "intro": "The United Arab Emirates is the premier commercial hub of the Middle East, connecting global trade corridors. Companies based in Dubai, Abu Dhabi, and Sharjah demand an authoritative, world-class digital presence that impresses international partners and accelerates commercial negotiations.",
+    "localContext": "Specialized in bilingual English and Arabic (RTL) corporate websites, corporate tax / VAT invoicing workflows, and high-converting WhatsApp business integration—the primary communication channel across the GCC.",
+    "caseReference": "kalasam-jaikrishna-industries"
+  },
+  {
+    "slug": "websites-for-businesses-in-australia",
+    "country": "Australia",
+    "demonym": "Australian",
+    "currency": "AUD ($)",
+    "title": "Custom Website & E-Commerce Development for Australian Businesses",
+    "h1": "Fast, High-Converting Web Development for Australian SMBs",
+    "metaDesc": "Freelance full-stack developer building fast, mobile-first websites and custom ordering apps for businesses across Sydney, Melbourne, Brisbane, and Perth.",
+    "intro": "Australian businesses operate in competitive, mobile-first markets where sluggish load times directly translate into lost revenue. I craft custom digital platforms with lightning-fast Sydney and Melbourne edge response, clear visual hierarchy, and seamless mobile checkout.",
+    "localContext": "Australian Privacy Principles (APP) compliance, GST invoicing structures, EFTPOS/Stripe integration, and proactive time-zone overlap for seamless communication.",
+    "caseReference": "aparna-stores-ecommerce"
+  },
+  {
+    "slug": "websites-for-businesses-in-canada",
+    "country": "Canada",
+    "demonym": "Canadian",
+    "currency": "CAD ($)",
+    "title": "Custom Web Development & Cloud Applications for Canadian Businesses",
+    "h1": "Custom Web Design & B2B Application Development in Canada",
+    "metaDesc": "Professional web developer building fast, bilingual-ready websites and custom operational software for businesses in Toronto, Vancouver, Montreal, and Calgary.",
+    "intro": "From manufacturing suppliers in Ontario to tech and service firms in British Columbia, Canadian companies need digital platforms engineered for performance, security, and scalability. I build custom web applications without the bloated retainers of traditional agencies.",
+    "localContext": "PIPEDA privacy compliance, bilingual French-Canadian localization readiness, provincial sales tax handling (HST/GST/PST), and North American edge caching.",
+    "caseReference": "jki-orders-b2b-platform"
+  },
+  {
+    "slug": "websites-for-businesses-in-singapore",
+    "country": "Singapore",
+    "demonym": "Singaporean",
+    "currency": "SGD ($)",
+    "title": "Custom Web & App Development for Singapore SMEs & Regional Hubs",
+    "h1": "High-Performance Web Development for Singapore SMEs & Startups",
+    "metaDesc": "Build lightweight, high-converting websites and B2B ordering apps for businesses in Singapore and Southeast Asia. Fast, secure, and SEO optimized.",
+    "intro": "Singapore is Southeast Asia's digital and logistics capital. Businesses operating here cannot afford slow or poorly designed web platforms. I engineer modern, ultra-responsive web applications tailored for Singaporean SMEs, trading companies, and regional distributors.",
+    "localContext": "PDPA compliance, PayNow and regional payment gateway readiness, ultra-low latency via Singapore edge points of presence, and bilingual regional support.",
+    "caseReference": "kalasam-jaikrishna-industries"
+  },
+  {
+    "slug": "websites-for-businesses-in-germany",
+    "country": "Germany",
+    "demonym": "German",
+    "currency": "EUR (€)",
+    "title": "Maßgeschneiderte Webentwicklung für Unternehmen in Deutschland",
+    "h1": "Maßgeschneiderte Websites & B2B-Software für deutsche Unternehmen",
+    "metaDesc": "Professionelle Webentwicklung: Schnelle, DSGVO-konforme Unternehmenswebsites und B2B-Applikationen für den deutschen Mittelstand.",
+    "intro": "Deutsche Unternehmen und der Mittelstand schätzen Präzision, Datensicherheit und technische Zuverlässigkeit. Ich entwickle schlanke, blitzschnelle Webplattformen und maßgeschneiderte B2B-Softwarelösungen ohne unnötigen Framework-Ballast.",
+    "localContext": "100% DSGVO-konform (keine ungefragten Third-Party-Tracker, cookiefreies Tracking), Impressum und Datenschutzerklärung nach deutschem Telemediengesetz (TMG), sowie deutscher Sprachsupport.",
+    "caseReference": "kalasam-jaikrishna-industries"
+  }
+]

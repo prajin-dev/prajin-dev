@@ -1,0 +1,17 @@
+{
+  "name": "Prajin Dezaa — Full-Stack Developer",
+  "short_name": "Prajin Dezaa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "description": "High-performance websites, e-commerce stores, and B2B apps that grow businesses.",
+  "icons": [
+    {
+      "src": "/assets/images/me.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

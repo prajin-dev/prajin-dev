@@ -1,0 +1,4 @@
+Contact: mailto:{{EMAIL}}
+Preferred-Languages: en, ta, hi
+Canonical: {{DOMAIN}}/.well-known/security.txt
+Policy: {{DOMAIN}}/privacy/

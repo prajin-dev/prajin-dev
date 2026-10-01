@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "website-development",
+    "name": "Custom Business Website Development",
+    "icon": "🌐",
+    "short": "Fast, SEO-ready corporate and business websites engineered to establish authority and convert inbound traffic.",
+    "h1": "Custom Business Website Development that Drives Revenue",
+    "lead": "I build lightweight, high-performance corporate websites with sub-second load times, mobile-first responsiveness, and structured search engine optimization built into every page.",
+    "deliverables": [
+      "Semantic HTML5 & Vanilla CSS architecture for maximum speed",
+      "Tailored UI/UX design matching your exact corporate brand identity",
+      "Full On-Page Technical SEO (Canonical, Open Graph, JSON-LD Schema)",
+      "Instant WhatsApp inquiry and lead generation integration",
+      "Free SSL, global CDN configuration, and domain setup assistance"
+    ],
+    "whoFor": "Manufacturers, exporters, consulting firms, B2B services, and established businesses seeking a premium international web presence.",
+    "relatedCase": "kalasam-jaikrishna-industries"
+  },
+  {
+    "slug": "ecommerce-development",
+    "name": "E-Commerce Stores & Online Ordering",
+    "icon": "🛒",
+    "short": "High-converting online shops with catalog management, cart, mobile checkout, and WhatsApp order dispatch.",
+    "h1": "Custom E-Commerce Store Development for Retail & Wholesale",
+    "lead": "Turn your brick-and-mortar store or wholesale operation into a 24/7 digital powerhouse with bulk quantity pricing, category browsing, and friction-free mobile checkout.",
+    "deliverables": [
+      "Custom product catalog with fast search and dynamic filtering",
+      "Tiered wholesale and bulk-pack discount pricing engines",
+      "Streamlined cart, checkout, and customer account portals",
+      "Direct WhatsApp and SMS automated order notification alerts",
+      "Integrated payment gateways and local currency presentation"
+    ],
+    "whoFor": "Supermarkets, grocery retailers, direct-to-consumer brands, and wholesalers requiring custom ordering rules without hefty third-party marketplace fees.",
+    "relatedCase": "aparna-stores-ecommerce"
+  },
+  {
+    "slug": "b2b-order-management-apps",
+    "name": "B2B Order Management Platforms",
+    "icon": "📦",
+    "short": "Custom portals, dealer dashboards, and ordering apps that replace messy phone calls and paper invoices.",
+    "h1": "B2B Ordering Platforms & Distributor Management Systems",
+    "lead": "Eliminate order errors and dispatch delays with a dedicated customer ordering portal, warehouse staff admin dashboard, and distributor tracking system.",
+    "deliverables": [
+      "Secure distributor and dealer login with phone + PIN authentication",
+      "Instant 1-click repeat order processing and inventory lookup",
+      "Automated GST-compliant invoicing and account statement ledger",
+      "Live order dispatch, tracking, and delivery confirmation updates",
+      "Role-based administrative control for internal sales and dispatch staff"
+    ],
+    "whoFor": "Manufacturers, FMCG distributors, chemical suppliers, and wholesale merchants operating through dealer networks.",
+    "relatedCase": "jki-orders-b2b-platform"
+  },
+  {
+    "slug": "android-apps-and-pwa",
+    "name": "Android Apps & Progressive Web Apps (PWA)",
+    "icon": "📱",
+    "short": "Fast, installable apps that function seamlessly across any Android smartphone, iPhone, tablet, or desktop browser.",
+    "h1": "Native Android Apps & Installable Progressive Web Apps",
+    "lead": "Provide your customers and field staff with an ultra-lightweight, installable app experience that works reliably even on unstable mobile network connections.",
+    "deliverables": [
+      "Lightweight Android APK packages optimized for speed and low RAM",
+      "Progressive Web App (PWA) manifest and offline service workers",
+      "Fast home-screen installation without mandatory app store barriers",
+      "Instant push notification capabilities and real-time syncing",
+      "Zero battery drain and minimal disk storage footprint"
+    ],
+    "whoFor": "Logistics teams, field sales representatives, repeat wholesale clients, and mobile-first consumer audiences.",
+    "relatedCase": "jki-orders-b2b-platform"
+  },
+  {
+    "slug": "custom-software-development",
+    "name": "Custom Software, CRM & ERP Systems",
+    "icon": "⚙️",
+    "short": "Tailored internal tools: GST billing, real-time inventory management, customer portals, and workflow automation.",
+    "h1": "Tailored Enterprise Cloud Software & Business Automation",
+    "lead": "Commercial off-the-shelf software is often bloated, expensive, and rigid. I engineer lightweight, bespoke web applications built around your exact operational workflows.",
+    "deliverables": [
+      "Integrated billing, taxation, and automated dispatch workflows",
+      "Live multi-warehouse inventory tracking and low-stock alerts",
+      "Client relationship management (CRM) and communication histories",
+      "Secure relational database architecture with automated backups",
+      "Clean, role-based dashboards tailored for field and administrative staff"
+    ],
+    "whoFor": "Small-to-medium enterprises, schools, service companies, and manufacturers looking to digitize unique internal processes.",
+    "relatedCase": "jki-orders-b2b-platform"
+  },
+  {
+    "slug": "ui-ux-and-landing-pages",
+    "name": "High-Converting Landing Pages & UI/UX Design",
+    "icon": "🎨",
+    "short": "Modern, cinematic user interfaces designed with psychological hierarchy that turn curious visitors into active leads.",
+    "h1": "High-Converting Landing Pages & Modern UI/UX Engineering",
+    "lead": "Aesthetics must serve a purpose. I combine cutting-edge visual polish (dark mode glassmorphism, 3D micro-animations) with structured conversion rate optimization (CRO).",
+    "deliverables": [
+      "Wireframing and high-fidelity prototypes validated prior to coding",
+      "Laser-focused conversion funnels and persuasive benefit layouts",
+      "Interactive 3D WebGL and GSAP scroll-driven animations",
+      "100% WCAG AA accessible contrast, typography, and keyboard controls",
+      "Rigorous cross-browser and real-device responsive testing"
+    ],
+    "whoFor": "Product launches, ad campaign landing pages, startup founders, and businesses redesigning outdated web interfaces.",
+    "relatedCase": "kalasam-jaikrishna-industries"
+  },
+  {
+    "slug": "seo-and-digital-ads",
+    "name": "Technical SEO & Search Marketing",
+    "icon": "📈",
+    "short": "Clean technical search engine optimization, Schema.org integration, and targeted Google/Meta ad campaign management.",
+    "h1": "Technical SEO & Search Marketing for Real Business Growth",
+    "lead": "Building a great website is only half the battle. I ensure your platform is indexed, ranked, and discovered by high-intent international and domestic searchers.",
+    "deliverables": [
+      "Comprehensive Core Web Vitals optimization (LCP < 2s, CLS < 0.05)",
+      "Semantic HTML heading hierarchies and natural keyword integration",
+      "Rich JSON-LD Schema markup (Organization, Service, FAQ, Breadcrumbs)",
+      "International SEO architecture with reciprocal hreflang clusters",
+      "High-ROI Google Search and Meta Ads campaign structure"
+    ],
+    "whoFor": "Any business seeking predictable organic inbound inquiries from Google, Bing, and AI-powered answer engines.",
+    "relatedCase": "kalasam-jaikrishna-industries"
+  }
+]

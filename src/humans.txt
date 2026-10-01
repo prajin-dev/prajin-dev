@@ -1,0 +1,11 @@
+/* TEAM */
+Developer: Prajin Dezaa
+Contact: {{EMAIL}}
+WhatsApp: +91 93609 70236
+Location: Theni, Tamil Nadu, India
+
+/* SITE */
+Standards: HTML5, Modern CSS, Vanilla JavaScript, SVG, WebGL
+Components: Three.js r128, GSAP 3.12.5, Lenis
+Accessibility: WCAG AA
+Hosting: Cloudflare Pages / Netlify / Vercel / GitHub Pages

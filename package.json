@@ -1,0 +1,24 @@
+{
+  "name": "prajin-dezaa-portfolio",
+  "version": "2.0.0",
+  "description": "Production-ready, multi-page international portfolio of Prajin Dezaa with 3D WebGL hero, complete technical and international SEO, Core Web Vitals optimization, and multi-host deployment.",
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/dev-server.mjs",
+    "build": "node tools/build.mjs",
+    "build:prod": "node tools/build.mjs --production",
+    "set-config": "node tools/set-config.mjs",
+    "audit": "node tools/audit.mjs",
+    "deploy:check": "node tools/deploy-check.mjs"
+  },
+  "keywords": [
+    "portfolio",
+    "seo",
+    "web-developer",
+    "full-stack",
+    "threejs",
+    "gsap"
+  ],
+  "author": "Prajin Dezaa",
+  "license": "MIT"
+}

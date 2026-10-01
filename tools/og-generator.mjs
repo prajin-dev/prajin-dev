@@ -1,0 +1,73 @@
+import fs from 'fs';
+import path from 'path';
+
+// Generate Open Graph 1200x630 SVG Image
+export function generateOgImage(title, category, subtitle) {
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0a1030"/>
+      <stop offset="100%" stop-color="#151a5e"/>
+    </linearGradient>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Subtle Grid Accent -->
+  <circle cx="1000" cy="150" r="350" fill="#6366f1" opacity="0.12" filter="blur(80px)"/>
+  <circle cx="200" cy="500" r="300" fill="#38bdf8" opacity="0.10" filter="blur(80px)"/>
+  <rect x="80" y="80" width="1040" height="470" rx="32" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+
+  <!-- Logo Brand -->
+  <text x="140" y="160" font-family="system-ui, sans-serif" font-weight="700" font-size="28" fill="#eef1ff">
+    prajin<tspan fill="#38bdf8">.dev</tspan>
+  </text>
+  
+  <!-- Category Pill -->
+  <rect x="140" y="200" width="${category.length * 13 + 32}" height="38" rx="19" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="156" y="225" font-family="system-ui, sans-serif" font-weight="600" font-size="14" fill="#38bdf8" letter-spacing="1">
+    ${category.toUpperCase()}
+  </text>
+
+  <!-- Title Wrap -->
+  <text x="140" y="320" font-family="system-ui, sans-serif" font-weight="800" font-size="52" fill="#ffffff" letter-spacing="-1">
+    ${escapeXml(truncate(title, 42))}
+  </text>
+  <text x="140" y="380" font-family="system-ui, sans-serif" font-weight="800" font-size="52" fill="url(#grad)" letter-spacing="-1">
+    ${escapeXml(title.length > 42 ? truncate(title.substring(40), 40) : '')}
+  </text>
+
+  <!-- Subtitle -->
+  <text x="140" y="460" font-family="system-ui, sans-serif" font-weight="500" font-size="22" fill="#a3adcf">
+    ${escapeXml(subtitle)}
+  </text>
+
+  <!-- Footer Tagline -->
+  <text x="140" y="510" font-family="system-ui, sans-serif" font-weight="600" font-size="16" fill="#38bdf8">
+    Prajin Dezaa · Full-Stack Developer · Theni, Tamil Nadu, India
+  </text>
+</svg>`;
+}
+
+function truncate(str, max) {
+  return str.length > max ? str.substring(0, max) + '...' : str;
+}
+
+function escapeXml(unsafe) {
+  return unsafe.replace(/[<>&'"]/g, c => {
+    switch (c) {
+      case '<': return '&lt;';
+      case '>': return '&gt;';
+      case '&': return '&amp;';
+      case '\'': return '&apos;';
+      case '"': return '&quot;';
+    }
+  });
+}

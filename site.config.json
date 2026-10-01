@@ -1,0 +1,45 @@
+{
+  "domain": "{{DOMAIN}}",
+  "host": "{{HOST}}",
+  "siteName": "Prajin Dezaa — Full-Stack Developer",
+  "titleSuffix": "Prajin Dezaa",
+  "author": "Prajin Dezaa",
+  "jobTitle": "Full-Stack Developer",
+  "location": {
+    "locality": "Theni",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  "whatsapp": "{{WHATSAPP}}",
+  "whatsappDisplay": "+91 93609 70236",
+  "email": "{{EMAIL}}",
+  "github": "{{GITHUB}}",
+  "linkedin": "https://www.linkedin.com/in/prajin-dezaa-a3469543b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  "instagram": "https://www.instagram.com/cricketerprajin06?stkn=Zmlvamc1M2wyZnR4",
+  "defaultLang": "en",
+  "languages": [
+    { "code": "en", "name": "English", "dir": "ltr", "locale": "en_US" },
+    { "code": "hi", "name": "हिन्दी (Hindi)", "dir": "ltr", "locale": "hi_IN" },
+    { "code": "ta", "name": "தமிழ் (Tamil)", "dir": "ltr", "locale": "ta_IN" },
+    { "code": "ar", "name": "العربية (Arabic)", "dir": "rtl", "locale": "ar_AE" },
+    { "code": "es", "name": "Español (Spanish)", "dir": "ltr", "locale": "es_ES" },
+    { "code": "fr", "name": "Français (French)", "dir": "ltr", "locale": "fr_FR" },
+    { "code": "de", "name": "Deutsch (German)", "dir": "ltr", "locale": "de_DE" },
+    { "code": "pt-br", "name": "Português (Brasil)", "dir": "ltr", "locale": "pt_BR" },
+    { "code": "id", "name": "Bahasa Indonesia", "dir": "ltr", "locale": "id_ID" },
+    { "code": "ms", "name": "Bahasa Melayu", "dir": "ltr", "locale": "ms_MY" },
+    { "code": "ja", "name": "日本語 (Japanese)", "dir": "ltr", "locale": "ja_JP" }
+  ],
+  "verification": {
+    "google": "{{GOOGLE_VERIFICATION}}",
+    "bing": "{{BING_VERIFICATION}}",
+    "yandex": "{{YANDEX_VERIFICATION}}",
+    "baidu": "{{BAIDU_VERIFICATION}}",
+    "naver": "{{NAVER_VERIFICATION}}"
+  },
+  "analytics": {
+    "googleAnalyticsId": "{{GA4_MEASUREMENT_ID}}",
+    "indexNowKey": "{{INDEXNOW_KEY}}"
+  }
+}
