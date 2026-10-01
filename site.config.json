@@ -1,6 +1,6 @@
 {
-  "domain": "{{DOMAIN}}",
-  "host": "{{HOST}}",
+  "domain": "https://prajindev-6a220.web.app",
+  "host": "Firebase Hosting",
   "siteName": "Prajin Dezaa — Full-Stack Developer",
   "titleSuffix": "Prajin Dezaa",
   "author": "Prajin Dezaa",
@@ -11,10 +11,10 @@
     "country": "India",
     "countryCode": "IN"
   },
-  "whatsapp": "{{WHATSAPP}}",
+  "whatsapp": "919360970236",
   "whatsappDisplay": "+91 93609 70236",
-  "email": "{{EMAIL}}",
-  "github": "{{GITHUB}}",
+  "email": "prajindezaa142@gmail.com",
+  "github": "https://github.com/prajin-dev",
   "linkedin": "https://www.linkedin.com/in/prajin-dezaa-a3469543b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   "instagram": "https://www.instagram.com/cricketerprajin06?stkn=Zmlvamc1M2wyZnR4",
   "defaultLang": "en",
@@ -32,14 +32,14 @@
     { "code": "ja", "name": "日本語 (Japanese)", "dir": "ltr", "locale": "ja_JP" }
   ],
   "verification": {
-    "google": "{{GOOGLE_VERIFICATION}}",
-    "bing": "{{BING_VERIFICATION}}",
-    "yandex": "{{YANDEX_VERIFICATION}}",
-    "baidu": "{{BAIDU_VERIFICATION}}",
-    "naver": "{{NAVER_VERIFICATION}}"
+    "google": "",
+    "bing": "",
+    "yandex": "",
+    "baidu": "",
+    "naver": ""
   },
   "analytics": {
-    "googleAnalyticsId": "{{GA4_MEASUREMENT_ID}}",
-    "indexNowKey": "{{INDEXNOW_KEY}}"
+    "googleAnalyticsId": "",
+    "indexNowKey": "prajinindexnowkey2026"
   }
 }
