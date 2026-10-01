@@ -9,7 +9,8 @@
     "build:prod": "node tools/build.mjs --production",
     "set-config": "node tools/set-config.mjs",
     "audit": "node tools/audit.mjs",
-    "deploy:check": "node tools/deploy-check.mjs"
+    "deploy:check": "node tools/deploy-check.mjs",
+    "deploy": "wrangler deploy"
   },
   "keywords": [
     "portfolio",
