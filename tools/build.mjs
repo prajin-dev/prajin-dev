@@ -89,6 +89,13 @@ function processDir(srcDir, destDir) {
             }
           }
 
+          // Cache busting query string for CSS and JS assets
+          const buildTimestamp = Date.now();
+          content = content.replaceAll('assets/css/main.css', `assets/css/main.css?v=${buildTimestamp}`);
+          content = content.replaceAll('assets/css/chatbot.css', `assets/css/chatbot.css?v=${buildTimestamp}`);
+          content = content.replaceAll('assets/js/main.js', `assets/js/main.js?v=${buildTimestamp}`);
+          content = content.replaceAll('assets/js/chatbot.js', `assets/js/chatbot.js?v=${buildTimestamp}`);
+
           // Register for sitemap if valid HTML page and not 404
           const relDist = path.relative('dist', destPath).replace(/\\/g, '/');
           if (relDist !== '404.html') {
