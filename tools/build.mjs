@@ -17,6 +17,27 @@ console.log(`==================================================\n`);
 fs.rmSync('dist', { recursive: true, force: true });
 fs.mkdirSync('dist', { recursive: true });
 
+// Helper to load .env file if present
+function loadEnv() {
+  const env = {};
+  if (fs.existsSync('.env')) {
+    const lines = fs.readFileSync('.env', 'utf8').split('\n');
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const idx = trimmed.indexOf('=');
+      if (idx !== -1) {
+        const key = trimmed.slice(0, idx).trim();
+        const val = trimmed.slice(idx + 1).trim().replace(/^["']|["']$/g, '');
+        env[key] = val;
+      }
+    }
+  }
+  return env;
+}
+
+const envVars = loadEnv();
+
 // 2. Token mapping dictionary
 const tokenMap = {
   '{{DOMAIN}}': isProduction ? config.domain.replace(/\/$/, '') : 'http://localhost:3000',
@@ -30,7 +51,8 @@ const tokenMap = {
   '{{BAIDU_VERIFICATION}}': isProduction ? config.verification.baidu || '' : '',
   '{{NAVER_VERIFICATION}}': isProduction ? config.verification.naver || '' : '',
   '{{GA4_MEASUREMENT_ID}}': isProduction ? config.analytics.googleAnalyticsId || '' : '',
-  '{{INDEXNOW_KEY}}': config.analytics.indexNowKey || 'prajinindexnowkey2026'
+  '{{INDEXNOW_KEY}}': config.analytics.indexNowKey || 'prajinindexnowkey2026',
+  '{{GEMINI_API_KEY}}': process.env.GEMINI_API_KEY || envVars.GEMINI_API_KEY || ''
 };
 
 // 3. Recursive copy and token replacement function
