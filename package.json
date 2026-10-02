@@ -5,13 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "node tools/dev-server.mjs",
-    "build": "node tools/build.mjs",
+    "build": "node tools/build.mjs --production",
+    "build:dev": "node tools/build.mjs",
     "build:prod": "node tools/build.mjs --production",
     "set-config": "node tools/set-config.mjs",
     "audit": "node tools/audit.mjs",
     "deploy:check": "node tools/deploy-check.mjs",
-    "deploy": "wrangler deploy",
-    "deploy:firebase": "npm run build:prod && firebase deploy --only hosting"
+    "deploy": "vercel --prod"
   },
   "keywords": [
     "portfolio",
