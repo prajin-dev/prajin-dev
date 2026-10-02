@@ -57,10 +57,10 @@ export function generateSchemaGraph({
   graph.push({
     "@type": "ProfessionalService",
     "@id": orgId,
-    "name": "Prajin Dezaa — Web & Software Engineering",
+    "name": "Prajin and Team — Full-Stack Web & App Development Studio",
     "url": "{{DOMAIN}}/",
-    "logo": "{{DOMAIN}}/assets/images/og-default.jpg",
-    "image": "{{DOMAIN}}/assets/images/me.jpg",
+    "logo": "{{DOMAIN}}/assets/images/logo.png",
+    "image": "{{DOMAIN}}/assets/images/logo.png",
     "founder": { "@id": personId },
     "areaServed": {
       "@type": "AdministrativeArea",
@@ -95,8 +95,8 @@ export function generateSchemaGraph({
     "@type": "WebSite",
     "@id": websiteId,
     "url": "{{DOMAIN}}/",
-    "name": "Prajin Dezaa Portfolio",
-    "publisher": { "@id": personId },
+    "name": "Prajin and Team Portfolio",
+    "publisher": { "@id": orgId },
     "inLanguage": "en"
   });
 

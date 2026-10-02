@@ -32,7 +32,8 @@
   <meta name="twitter:image" content="{{DOMAIN}}/assets/images/og-default.jpg">
 
   <!-- Favicon & PWA Manifest -->
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%A1%3C/text%3E%3C/svg%3E">
+  <link rel="icon" type="image/png" href="../assets/images/logo.png">
+  <link rel="apple-touch-icon" href="../assets/images/logo.png">
   <link rel="manifest" href="../manifest.webmanifest">
   <meta name="theme-color" content="#050816">
 
@@ -78,10 +79,10 @@
     {
       "@type": "ProfessionalService",
       "@id": "{{DOMAIN}}/#organization",
-      "name": "Prajin Dezaa — Web & Software Engineering",
+      "name": "Prajin and Team — Full-Stack Web & App Development Studio",
       "url": "{{DOMAIN}}/",
-      "logo": "{{DOMAIN}}/assets/images/og-default.jpg",
-      "image": "{{DOMAIN}}/assets/images/me.jpg",
+      "logo": "{{DOMAIN}}/assets/images/logo.png",
+      "image": "{{DOMAIN}}/assets/images/logo.png",
       "founder": {
         "@id": "{{DOMAIN}}/#person"
       },
@@ -172,9 +173,9 @@
       "@type": "WebSite",
       "@id": "{{DOMAIN}}/#website",
       "url": "{{DOMAIN}}/",
-      "name": "Prajin Dezaa Portfolio",
+      "name": "Prajin and Team Portfolio",
       "publisher": {
-        "@id": "{{DOMAIN}}/#person"
+        "@id": "{{DOMAIN}}/#organization"
       },
       "inLanguage": "en"
     },
@@ -222,7 +223,13 @@
   <canvas id="gl" aria-hidden="true"></canvas>
   <header>
     <nav aria-label="Main navigation">
-      <a class="logo mag" href="../" aria-label="Prajin and Team — Home">prajin<b>&</b>team</a>
+      <a class="logo mag brand-logo-link" href="../" aria-label="Prajin and Team — Home">
+        <img class="nav-emblem" src="../assets/images/nav-emblem.png" alt="Prajin and Team Emblem" width="36" height="36" fetchpriority="high">
+        <span class="brand-text">
+          <span class="brand-title">prajin<b>&</b>team</span>
+          <span class="brand-sub">FULL-STACK STUDIO</span>
+        </span>
+      </a>
       <div class="links" id="links">
         <a href="../#work">Work</a>
         <a href="../#services">Services</a>
@@ -304,7 +311,7 @@
     <div class="wrap">
       <div class="footer-grid">
         <div class="footer-col">
-          <p class="logo" style="margin-bottom:12px;">prajin<b>&</b>team</p>
+          <p class="logo" style="margin-bottom:12px;"><img class="nav-logo" src="../assets/images/logo.png" alt="Prajin and Team Logo" width="32" height="32"><span>prajin<b>&</b>team</span></p>
           <p style="max-width:32ch; line-height:1.6; margin-bottom:16px;">
             Full-stack engineering and design studio led by Prajin from Theni, Tamil Nadu, India. Building high-performance websites, e-commerce stores, B2B portals, and custom cloud software worldwide.
           </p>

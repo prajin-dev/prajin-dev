@@ -74,7 +74,7 @@ export function generateHomePage(lang = 'en') {
           </div>
         </div>
         <div class="me tilt">
-          <img class="pic" src="${rootRel}assets/images/me.jpg" width="480" height="480" alt="Prajin Dezaa - Full-Stack Developer portrait" fetchpriority="high">
+          <img class="pic" src="${rootRel}assets/images/logo.png" width="480" height="480" alt="Prajin and Team — Full-Stack Development Studio Logo" fetchpriority="high">
         </div>
       </div>
       <div class="hint">SCROLL</div>
@@ -150,12 +150,12 @@ export function generateHomePage(lang = 'en') {
     <section id="about">
       <div class="wrap about">
         <div class="me tilt rv">
-          <img class="pic" src="${rootRel}assets/images/me.jpg" width="480" height="480" alt="Prajin Dezaa developer photo" loading="lazy">
+          <img class="pic" src="${rootRel}assets/images/logo.png" width="480" height="480" alt="Prajin and Team — Full-Stack Development Studio Logo" loading="lazy">
         </div>
         <div>
-          <p class="eyebrow rv">About me</p>
+          <p class="eyebrow rv">About us</p>
           <h2 class="rv">17, from Theni. <span class="g">Shipping like a studio.</span></h2>
-          <p class="lead rv">I started building for local businesses and quickly learned that a successful digital product is much more than pretty pixels — it must load instantly, remain effortlessly intuitive on mobile, and convert visitors into loyal clients. I take total ownership of design, clean code, deployment, and organic search optimization.</p>
+          <p class="lead rv">We started building for local businesses and quickly learned that a successful digital product is much more than pretty pixels — it must load instantly, remain effortlessly intuitive on mobile, and convert visitors into loyal clients. We take total ownership of design, clean code, deployment, and organic search optimization.</p>
           <div class="vals">
             <div class="card rv"><h3>Speed</h3><p>Fast sites, fast delivery, fast WhatsApp replies.</p></div>
             <div class="card rv"><h3>Quality</h3><p>Clean semantic code, pixel-level polish, tested on real devices.</p></div>

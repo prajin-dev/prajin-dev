@@ -52,7 +52,7 @@ export function generateAllInternationalHomepages() {
             </div>
           </div>
           <div class="me tilt">
-            <img class="pic" src="${rootRel}assets/images/me.jpg" width="480" height="480" alt="Prajin Dezaa photo" fetchpriority="high">
+            <img class="pic" src="${rootRel}assets/images/logo.png" width="480" height="480" alt="Prajin and Team Logo" fetchpriority="high">
           </div>
         </div>
       </section>
@@ -111,7 +111,7 @@ export function generateAllInternationalHomepages() {
       <section id="about">
         <div class="wrap about">
           <div class="me tilt rv">
-            <img class="pic" src="${rootRel}assets/images/me.jpg" width="480" height="480" alt="Prajin Dezaa" loading="lazy">
+            <img class="pic" src="${rootRel}assets/images/logo.png" width="480" height="480" alt="Prajin and Team Logo" loading="lazy">
           </div>
           <div>
             <p class="eyebrow rv">About</p>

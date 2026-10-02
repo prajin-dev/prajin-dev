@@ -84,7 +84,8 @@ export function renderHead({
   <meta name="twitter:image" content="{{DOMAIN}}${ogImage}">
 
   <!-- Favicon & PWA Manifest -->
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%A1%3C/text%3E%3C/svg%3E">
+  <link rel="icon" type="image/png" href="${rootRel}assets/images/logo.png">
+  <link rel="apple-touch-icon" href="${rootRel}assets/images/logo.png">
   <link rel="manifest" href="${rootRel}manifest.webmanifest">
   <meta name="theme-color" content="#050816">
 
@@ -111,7 +112,13 @@ export function renderHeader(pagePath, lang = 'en') {
 
   return `  <header>
     <nav aria-label="Main navigation">
-      <a class="logo mag" href="${rootRel}" aria-label="Prajin and Team — Home">prajin<b>&</b>team</a>
+      <a class="logo mag brand-logo-link" href="${rootRel}" aria-label="Prajin and Team — Home">
+        <img class="nav-emblem" src="${rootRel}assets/images/nav-emblem.png" alt="Prajin and Team Emblem" width="36" height="36" fetchpriority="high">
+        <span class="brand-text">
+          <span class="brand-title">prajin<b>&</b>team</span>
+          <span class="brand-sub">FULL-STACK STUDIO</span>
+        </span>
+      </a>
       <div class="links" id="links">
         <a href="${isHome ? '#work' : rootRel + '#work'}">Work</a>
         <a href="${isHome ? '#services' : rootRel + '#services'}">Services</a>
@@ -158,7 +165,7 @@ export function renderFooter(pagePath) {
     <div class="wrap">
       <div class="footer-grid">
         <div class="footer-col">
-          <p class="logo" style="margin-bottom:12px;">prajin<b>&</b>team</p>
+          <p class="logo" style="margin-bottom:12px;"><img class="nav-logo" src="${rootRel}assets/images/logo.png" alt="Prajin and Team Logo" width="32" height="32"><span>prajin<b>&</b>team</span></p>
           <p style="max-width:32ch; line-height:1.6; margin-bottom:16px;">
             Full-stack engineering and design studio led by Prajin from Theni, Tamil Nadu, India. Building high-performance websites, e-commerce stores, B2B portals, and custom cloud software worldwide.
           </p>
